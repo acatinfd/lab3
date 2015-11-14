@@ -1,5 +1,6 @@
 import unittest
 import Experiment
+import coverage
 
 class MyTestCase(unittest.TestCase):
 
